@@ -194,17 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 resumequeryagent_venv/
-**docs/
+resume_docs/
 **vectorstore/
 
-# Example queries for candidates in a recruitment database
-# These queries can be used to filter candidates based on their skills, experience, and other attributes
 
-# What technical skills does she have?
-# "Tell me all the names of candidates who have experience as a Python Developer."
-
-# "List candidates who worked with Power BI and SQL."
-
-# "Which candidates have over 3 years of experience?"
-
-# Extract the candidate's name, all skills, and a 1-2 sentence experience summary.
